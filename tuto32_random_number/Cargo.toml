@@ -1,0 +1,7 @@
+[package]
+name = "tuto32_random_number"
+version = "0.1.0"
+authors = ["Junho Shin <junho9314@gmail.com>"]
+
+[dependencies]
+rand = "0.3"

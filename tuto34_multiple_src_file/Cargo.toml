@@ -1,0 +1,6 @@
+[package]
+name = "tuto34_multiple_src_file"
+version = "0.1.0"
+authors = ["Junho Shin <junho9314@gmail.com>"]
+
+[dependencies]

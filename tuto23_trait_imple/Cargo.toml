@@ -1,0 +1,6 @@
+[package]
+name = "tuto23_trait_imple"
+version = "0.1.0"
+authors = ["Junho Shin <junho9314@gmail.com>"]
+
+[dependencies]
