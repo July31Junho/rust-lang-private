@@ -1,7 +1,7 @@
 # rust-lang-private
 ## Youtube material
 
-###dcode
+### dcode
 https://www.youtube.com/watch?v=vOMJlQ5B-M0&list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL
 
 ### Tensor Programming
